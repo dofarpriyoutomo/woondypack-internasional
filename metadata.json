@@ -1,0 +1,6 @@
+{
+  "name": "Woondypack Internasional - Percetakan ERP",
+  "description": "Sistem ERP Percetakan Woondypack Internasional lengkap dengan Dashboard KPI, Sales Order & SPK, Finance & DP (Deadline 10 Hari), PPIC Kertas & Material (Deadline 4 Hari), Produksi 4 Tahap & Miss Reject, serta sinkronisasi 2 arah langsung ke Google Sheets dan Google Drive via OAuth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
